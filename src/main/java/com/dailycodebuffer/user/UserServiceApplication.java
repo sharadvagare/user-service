@@ -11,12 +11,6 @@ public class UserServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UserServiceApplication.class, args);
-<<<<<<< HEAD
-		System.out.println("Started Application");
-		
-=======
-		System.out.println("Started Spring Application ");
->>>>>>> feature
 	}
 
 	@Bean
